@@ -6,3 +6,4 @@ This my list of things I will learn
 - Add meetings to PAT.
 - Finish JobShop
   - Lin
+  - Roselina
